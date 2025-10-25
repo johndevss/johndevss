@@ -21,9 +21,9 @@ I'm a college student in the Philippines with expertise in multiple programming 
 
 ## 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=mincraftplayer69&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndevss&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mincraftplayer69&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndevss&layout=compact&theme=radical)
 
 ## 📫 How to Reach Me
 
