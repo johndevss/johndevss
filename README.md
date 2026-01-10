@@ -18,13 +18,6 @@ I'm a college student in the Philippines with expertise in multiple programming 
 ### Database
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 
-
-## 📊 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=johndevss&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=johndevss&layout=compact&theme=radical)
-
 ## 📫 How to Reach Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-emmanuel-calderon-a26526281/)
